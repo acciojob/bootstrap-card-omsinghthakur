@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.container{ 
+.card-deck{  
 	display:flex;
 	justify-content:space-around; 
 	padding:10px;
