@@ -1,11 +1,2 @@
 
 /* Your CSS Code here. */
-.card-deck{  
-	display:flex;
-	justify-content:space-around; 
-	padding:10px;
-	padding-left:10px; 
-}
-.text{
-	margin-right:10px;  
-}
